@@ -5,7 +5,7 @@
     "godaddy": {
         "key": "XXXXXXXXXXXXXXXXXXXXX",
         "secret": "XXXXXXXXXXXXXXXXXXXXX",
-        "url": "https://api.ote-godaddy.com"
+        "url": "https://api.godaddy.com"
     },
 
     "ipinfo": {
