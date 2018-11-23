@@ -1,0 +1,17 @@
+{
+    "domain": "XXXXXXXXXXXXXXXXXXXXX",
+    "host": "XXXXXXXXXXXXXXXXXXXXX",
+
+    "godaddy": {
+        "key": "XXXXXXXXXXXXXXXXXXXXX",
+        "secret": "XXXXXXXXXXXXXXXXXXXXX",
+        "url": "https://api.ote-godaddy.com"
+    },
+
+    "ipinfo": {
+        "key": "XXXXXXXXXXXXXXXXXXXXX",
+        "url": "https://ipinfo.io"
+    },
+
+    "myip": ""
+}
